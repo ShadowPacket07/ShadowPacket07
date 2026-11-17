@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm ShadowPacket07!
 
-<!--
-**ShadowPacket07/ShadowPacket07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a IT student based in Ho Chi Minh city, 
+interested in [lĩnh vực 1], [lĩnh vực 2] and [lĩnh vực 3]. 
+I enjoy [điều bạn thích làm]. Currently learning [thứ bạn đang học].
 
-Here are some ideas to get you started:
+### 💼 Professional Snapshot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Build backend applications in **Java**, with a focus on clean code
+- 🗄️ Write **SQL** queries and design database schemas
+- 🐧 Practice **Linux** administration and shell scripting
+- 🌐 Learn networking basics: DNS, routing, the OSI model
+
+### 🛠️ Tools & Technologies
+
+- **Languages & Frameworks:** Java, SQL, Python, Spring Boot (learning)
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Docker (beginner), VS Code, IntelliJ
+- **Foundational Concepts:** OOP, REST API, JDBC, Data Structures
+
+### 📂 Featured Projects
+
+- 🌐 **[Tên dự án 1](link-repo)** – Mô tả ngắn một dòng.
+- 📦 **[Tên dự án 2](link-repo)** – Mô tả ngắn một dòng.
+
+### 📫 Contact Me
+
+- 📧 Email: your.email@gmail.com
+- 📍 Location: TP. Hồ Chí Minh
+- 🔗 [LinkedIn](link-linkedin)
+
+Thanks for stopping by!
+
+> *"Câu quote yêu thích của bạn."*
